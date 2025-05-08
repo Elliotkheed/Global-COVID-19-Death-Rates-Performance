@@ -50,5 +50,8 @@ The consistently high mortality in older age groups reinforces the importance of
 The US has consistently ranked highest in both new deaths and total deaths, indicating ongoing systemic challenges despite high resource availability.
 
 Regional analysis helps highlight underrepresented areas that may need more attention or support, especially in reporting and healthcare access.
+Dataset
+The dataset used in this analysis is available (https://docs.google.com/spreadsheets/d/1opKJdAgyvk0cEptXKOm2Yio7aODYwOsM/edit?usp=sharing&ouid=100813841586231653884&rtpof=true&sd=true)
+Tools & Libraries Used: Microsoft Excel
 
 ![image](https://github.com/user-attachments/assets/de2ddad9-ba56-4b63-a5df-8c7fe7261c6d)
